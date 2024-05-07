@@ -1,11 +1,11 @@
 <h4 align="center">访客数 :eyes:</h4>
 
 <p align="center">
-<img  src="https://profile-counter.glitch.me/Leon406_SubCrawler/count.svg" alt="Sub :: Visitor's Count" />
- <img width=0 height=0 src="https://profile-counter.glitch.me/Leon406/count.svg" alt="Leon406:: Visitor's Count" />
+<img  src="" alt="Sub :: Visitor's Count" />
+ <img width=0 height=0 src="" alt="Leon406:: Visitor's Count" />
 </p>
 
-![Repo size](https://img.shields.io/github/repo-size/leon406/subcrawler)
+![Repo size](https://img.shields.io/github/repo-size/Use4Free/SubCrawler)
 
 ## [Telegram群组](https://t.me/freenodeshare)
 
@@ -70,8 +70,8 @@
 ### 节点
 
 - github action (  [节点详情](./sub/info.md) )
-  - [vless](https://raw.fastgit.org/Leon406/SubCrawler/master/sub/share/vless) 未测速 (litespeed不支持)
-  - [四合一转换(不含vless)](https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all4)
+  - [vless](https://raw.fastgit.org/Use4Free/SubCrawler/master/sub/share/vless) 未测速 (litespeed不支持)
+  - [四合一转换(不含vless)](https://raw.githubusercontent.com/Use4Free/SubCrawler/main/sub/share/all4)
 
 
 - 本地构建 (github action 节点测试为国外服务器,国内不保证能用,**建议使用本地二次测速筛选后使用**)
@@ -92,9 +92,9 @@ chmod +x localFilter && ./localFilter
 
 ### Hosts
 
-- [广告屏蔽hosts](https://raw.fastgit.org/Leon406/SubCrawler/master/sub/share/blackhosts) 
-- [googlehosts重筛](https://raw.fastgit.org/Leon406/SubCrawler/master/sub/share/whitehost)
-- [github及常用域名](https://raw.fastgit.org/Leon406/SubCrawler/master/sub/share/host)
+- [广告屏蔽hosts](https://raw.fastgit.org/Use4Free/SubCrawler/master/sub/share/blackhosts) 
+- [googlehosts重筛](https://raw.fastgit.org/Use4Free/SubCrawler/master/sub/share/whitehost)
+- [github及常用域名](https://raw.fastgit.org/Use4Free/SubCrawler/master/sub/share/host)
 
 ## 走代理后ip匿名检测
 
@@ -140,7 +140,7 @@ chmod +x localFilter && ./localFilter
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/Leon406/SubCrawler.svg)](https://starchart.cc/Leon406/SubCrawler)
+[![Stargazers over time](https://starchart.cc/Use4Free/SubCrawler.svg)](https://starchart.cc/Use4Free/SubCrawler)
 
 ## 声明
 
